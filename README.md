@@ -7,6 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=lmr108&label=Profile%20views&color=blue&style=plastic" alt="lmr108's     profile views" /> 
 </p>
 
-
+## <img src="assets/about_me.gif" width="35px" alt="About me" /> About me
 
 
