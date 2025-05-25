@@ -4,7 +4,7 @@
   &nbsp;&nbsp;
   <img alt="GitHub stars"    src="https://img.shields.io/github/stars/lmr108?style=social" />
   &nbsp;&nbsp;
-  <img alt="Profile Views"    src="https://visitor-badge.laobi.icu/badge?page_id=lmr108.lmr108" />
+  <img src="https://komarev.com/ghpvc/?username=lmr108&label=Profile%20views&color=brightgreen&style=plastic" alt="lmr108's     profile views" /> 
 </p>
 
 
