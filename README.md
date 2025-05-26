@@ -16,6 +16,6 @@ Robotics Engineer with solid experience in the end-to-end machine learning proje
 br>
 
 - 🎓 I am a Junior Engineer at Eiffage Energía Sistemas
-- 📑 Feel free to check out my [Resume].
+- 📑 Feel free to check out my [resume](assets/resume.pdf).
 - 📫 Feel free to contact me at lucas.m02r@gmail.com
 <br>
