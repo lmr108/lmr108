@@ -9,11 +9,9 @@
 
 ## <img src="assets/about_me.gif" width="35px" alt="About me" /> <span style="font-family: Calibri, sans-serif; color: blue; font-weight: bold;">About me</span>
 
-Robotics Engineer experienced in managing the full machine learning lifecycle—from data extraction and analysis through deployment. Passionate about creating innovative solutions that enhance industrial processes, boost efficiency, and reduce costs.
+<img align="right" width=300px alt="Unicorn" src="assets/Coding Work From Home GIF by Domme Space.gif" />
 
-<picture> 
-  <img align="right" src="assets/Coding Work From Home GIF by Domme Space.gif" width="150px" />
-</picture>
+Robotics Engineer experienced in managing the full machine learning lifecycle—from data extraction and analysis through deployment. Passionate about creating innovative solutions that enhance industrial processes, boost efficiency, and reduce costs.
 
 <br>
 
