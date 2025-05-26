@@ -12,3 +12,10 @@
 Robotics Engineer with solid experience in the end-to-end machine learning project lifecycle—from data extraction and analysis to production deployment. I aim to continue delivering innovative solutions that optimize industrial processes, driving efficiency improvements and cost reductions.
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+br>
+
+- 🎓 I am a Junior Engineer at Eiffage Energía Sistemas
+- 📑 Feel free to check out my [Resume].
+- 📫 Feel free to contact me at lucas.m02r@gmail.com
+<br>
