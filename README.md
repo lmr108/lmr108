@@ -7,6 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=lmr108&label=Profile%20views&color=blue&style=plastic" alt="lmr108's     profile views" /> 
 </p>
 
-## <img src="assets/about_me.gif" width="35px" alt="About me" /> About me
+## <img src="assets/about_me.gif" width="35px" alt="About me" /> <span style="font-family: Calibri, sans-serif; color: blue; font-weight: bold;">About me</span>
 
+Robotics Engineer with solid experience in the end-to-end machine learning project lifecycle—from data extraction and analysis to production deployment. I aim to continue delivering innovative solutions that optimize industrial processes, driving efficiency improvements and cost reductions.
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
