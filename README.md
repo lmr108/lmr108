@@ -9,7 +9,7 @@
 
 ## <img src="assets/about_me.gif" width="35px" alt="About me" /> <span style="font-family: Calibri, sans-serif; color: blue; font-weight: bold;">About me</span>
 
-Robotics Engineer with solid experience in the end-to-end machine learning project lifecycle—from data extraction and analysis to production deployment. I aim to continue delivering innovative solutions that optimize industrial processes, driving efficiency improvements and cost reductions.
+Robotics Engineer experienced in managing the full machine learning lifecycle—from data extraction and analysis through deployment. Passionate about creating innovative solutions that enhance industrial processes, boost efficiency, and reduce costs.
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
