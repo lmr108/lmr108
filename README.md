@@ -19,7 +19,7 @@ Robotics Engineer experienced in managing the full machine learning lifecycle—
 <br>
 
 - 🎓 I am a Junior Engineer at Eiffage Energía Sistemas
-- 📑 Feel free to check out my [resume](assets/CV_lmr_ing.pdf)
+- 📑 You can check out my [resume](assets/CV_lmr_ing.pdf)
 - 📫 Feel free to contact me at lucas.m02r@gmail.com
 <br>
 
