@@ -19,3 +19,6 @@ Robotics Engineer experienced in managing the full machine learning lifecycle—
 - 📑 Feel free to check out my [resume](assets/resume.pdf).
 - 📫 Feel free to contact me at lucas.m02r@gmail.com
 <br>
+
+## My Skills Include
+<h4> Languages </h4>
