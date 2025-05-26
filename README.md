@@ -11,9 +11,11 @@
 
 Robotics Engineer experienced in managing the full machine learning lifecycle—from data extraction and analysis through deployment. Passionate about creating innovative solutions that enhance industrial processes, boost efficiency, and reduce costs.
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> 
+  <img align="right" src="assets/Coding Work From Home GIF by Domme Space.gif" width="150px" />
+</picture>
 
-br>
+<br>
 
 - 🎓 I am a Junior Engineer at Eiffage Energía Sistemas
 - 📑 Feel free to check out my [resume](assets/resume.pdf).
