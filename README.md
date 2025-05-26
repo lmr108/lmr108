@@ -58,7 +58,4 @@ Robotics Engineer experienced in managing the full machine learning lifecycle—
   <a href="https://github.com/lmr108">
     <img src="https://github-readme-stats.vercel.app/api?username=lmr108&show_icons=true&theme=blueberry&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/lmr108">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmr108&theme=blueberry" />
-  </a>
 </div>
