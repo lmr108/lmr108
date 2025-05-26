@@ -7,7 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=lmr108&label=Profile%20views&color=blue&style=plastic" alt="lmr108's     profile views" /> 
 </p>
 
-## <img src="assets/about_me.gif" width="35px" alt="About me" /> <span style="font-family: Calibri, sans-serif; color: blue; font-weight: bold;">About me</span>
+<h2>
+  <img src="assets/about_me.gif" width="35px" alt="About me" />
+  <span style="font-family: Calibri, sans-serif; color: blue; font-weight: bold;">About me</span>
+</h2>
 
 <img align="right" width=300px alt="Unicorn" src="assets/Coding Work From Home GIF by Domme Space.gif" />
 
@@ -20,7 +23,7 @@ Robotics Engineer experienced in managing the full machine learning lifecycle—
 - 📫 Feel free to contact me at lucas.m02r@gmail.com
 <br>
 
-## My Skills Include
+<h2 style="font-size: 28px;">My Skills Include</h2>
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -39,7 +42,7 @@ Robotics Engineer experienced in managing the full machine learning lifecycle—
 
 </span>
 
-## Check out my Social Media
+<h2 style="font-size: 28px;">Check out my Social Media</h2>
 <span>
   <a href="https://www.linkedin.com/in/lucas-martínez-rodríguez" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -50,7 +53,7 @@ Robotics Engineer experienced in managing the full machine learning lifecycle—
   </a>
 </span>
 
-## Github stats
+<h2 style="font-size: 28px;">Github stats</h2>
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/lmr108">
     <img src="https://github-readme-stats.vercel.app/api?username=lmr108&show_icons=true&theme=blueberry&hide_border=true&locale=en" />
