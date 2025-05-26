@@ -41,9 +41,11 @@ Robotics Engineer experienced in managing the full machine learning lifecycle—
 
 ## Check out my Social Media
 <span>
-  <a href = "www.linkedin.com/in/lucas-martínez-rodríguez"
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href = " "
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-
+  <a href="https://www.linkedin.com/in/lucas-martínez-rodríguez" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="https://www.youtube.com/channel/tu-canal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+  </a>
 </span>
