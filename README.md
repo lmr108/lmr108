@@ -49,3 +49,9 @@ Robotics Engineer experienced in managing the full machine learning lifecycle—
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 </span>
+
+## Github stats
+</div>
+[![](https://github-readme-stats.vercel.app/api?username=lmr108&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lmr108)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=lmr108&theme=material-palenight)](https://github.com/lmr108)
+</div>
