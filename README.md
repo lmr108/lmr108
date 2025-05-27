@@ -53,8 +53,8 @@ Robotics Engineer experienced in managing the full machine learning lifecycle—
   </a>
 </span>
 
-<h2 style="font-size: 28px;">Github stats</h2>
+<!--<h2 style="font-size: 28px;">Github stats</h2>
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lmr108&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/lmr108/github-readme-stats)
-
+->
 
